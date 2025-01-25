@@ -1,6 +1,8 @@
 # grm
 Graded response model - polytomous IRT Use grm (ltm) With (In) R Software
 
+https://www.youtube.com/watch?v=Etdg-_oAkWU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
